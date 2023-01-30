@@ -1,6 +1,4 @@
 # DCApi
 
-''' 
-Burhan Göksel
-email = brhngksel@gmail.com
-'''
+### Burhan Göksel
+### email = brhngksel@gmail.com
